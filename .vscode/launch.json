@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto3Application<Reto3>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Reto3.Reto3.Reto3Application",
+            "projectName": "Reto3",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
